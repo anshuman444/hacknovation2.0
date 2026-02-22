@@ -1,0 +1,14 @@
+{
+    "name": "smart-contract-analyzer",
+    "version": "1.0.0",
+    "description": "Cartesi Machine application for deterministic smart contract analysis",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "fs": "0.0.1-security"
+    },
+    "author": "",
+    "license": "MIT"
+}
