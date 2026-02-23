@@ -25,7 +25,7 @@ This project is built using a combination of modern web technologies, AI tools, 
 ---
 
 ### 🧠 AI & Analysis Tools
-- **OpenAI API** – Used for intelligent reasoning and explanation generation  
+- **Nvidia API** – Used for intelligent reasoning and explanation generation  
 - **Custom Heuristic Engine** – Rule-based vulnerability detection (e.g., reentrancy, access control)  
 - **Pattern Matching Engine** – Compares contract patterns with known exploit cases  
 
